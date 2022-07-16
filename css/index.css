@@ -1,0 +1,21 @@
+:root {
+    --orange: rgb(255, 166, 0);
+}
+.logo-tab{
+    border-radius: 50%;
+}
+.mk-menu{
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.mk-menu:hover{
+    color: var(--orange);
+}
+ul li a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
